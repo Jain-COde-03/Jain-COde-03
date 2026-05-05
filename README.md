@@ -1,41 +1,84 @@
-## Hi there 👋
+# 🚀 Hi, I'm Mayank
 
-<!--
-**Jain-COde-03/Jain-COde-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Top 1% Developer
+⚡ Full-stack | App Dev | AI/ML
+🔥 Building real-world projects, not just tutorials
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
 
-🚀 About Me
-🎯 Goal: Top 1% Developer
-💻 Full-stack | App Dev | AI/ML
-⚡ Building real-world projects
-🛠️ Tech Stack
-Languages: C++, Python, JavaScript
-Frontend: React, HTML, CSS
-Backend: Node.js, Express
-Database: MongoDB
-🔥 Current Focus
-Full-stack projects
-DSA daily
-Android development
-📌 Featured Projects
-🚀 Full-stack App
-📱 Android App
-🤖 ML Project
-⚡ Backend API
-📊 GitHub Stats
+* 🎯 Goal: Become a top 1% developer
+* 📚 Currently learning: Full-stack, Android, AI/ML
+* ⚡ Philosophy: Learn → Build → Ship → Repeat
+* 🇮🇳 Based in India
 
-(Add later using stats tools)
+---
 
-🌐 Connect
-LinkedIn (add later)
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwindcss)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+### 🗄️ Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
+
+---
+
+## 🔥 Current Focus
+
+* 🚀 Building full-stack applications
+* 🧠 Practicing DSA daily
+* 📱 Learning Android development
+* 🤖 Exploring AI/ML
+
+---
+
+## 📌 Featured Projects
+
+* 🚀 Full-stack Web App (Auth + Dashboard)
+* 📱 Android App (Real-world use case)
+* 🤖 Machine Learning Project
+* ⚡ REST API Backend
+* 🧠 DSA Practice (LeetCode solutions)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jain-COde-03\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Jain-COde-03\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-COde-03\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🌍 Portfolio: Coming soon
+
+---
+
+## ⚡ Fun Fact
+
+I focus on building skills that actually matter in real-world development 🚀
