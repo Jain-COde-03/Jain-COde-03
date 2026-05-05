@@ -64,12 +64,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jain-COde-03\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Jain-COde-03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-![Streak](https://streak-stats.demolab.com?user=Jain-COde-03\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-COde-03\&layout=compact\&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-COde-03&layout=compact&theme=tokyonight&cache_seconds=1800" />
 ---
 
 ## 🌐 Connect With Me
