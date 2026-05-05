@@ -1,6 +1,6 @@
 <!-- ====== HEADER / BANNER ====== -->
 
-<h1 align="center">Hi 👋, I'm Mayank</h1>
+<h1 align="center">Hi 👋, I'm Dhairya Jain</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Top+1%25+Developer+in+Progress;Full-Stack+%7C+Android+%7C+AI%2FML;Building+Real+Projects+Daily;Consistency+%3E+Motivation" />
@@ -14,10 +14,16 @@
 
 ## 🧠 About Me
 
-* 🎯 Goal: Top 1% Developer
-* 💻 Focus: Full-stack | App Dev | AI/ML
-* ⚡ Philosophy: Learn → Build → Ship → Repeat
-* 🇮🇳 India
+* 🎯 Goal: Become a **top 1% developer** by mastering real-world systems
+* 💻 Focus: Full-stack development, Android apps, and AI/ML fundamentals
+* 🧱 Approach: Build production-ready projects instead of tutorial clones
+* ⚡ Workflow: Learn → Build → Optimize → Ship → Repeat
+* 📈 Currently improving: DSA, system design basics, and backend scalability
+* 🔍 Interests: High-performance apps, clean UI/UX, and automation
+* 🤝 Open to: Freelance work, collaborations, and real-world problem solving
+* 🛠️ Tools I use daily: Git, VS Code, Postman
+* 📍 Based in India
+
 
 ---
 
