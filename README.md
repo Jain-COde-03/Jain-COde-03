@@ -1,15 +1,13 @@
 # 🚀 Hi, I'm Mayank
 
-💻 Aspiring Top 1% Developer
-⚡ Full-stack | App Dev | AI/ML
-🔥 Building real-world projects, not just tutorials
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Top+1%+Developer+in+Progress;Full-Stack+%7C+Android+%7C+AI%2FML;Building+Real+Projects+Daily" />
 
 ---
 
 ## 🧠 About Me
 
 * 🎯 Goal: Become a top 1% developer
-* 📚 Currently learning: Full-stack, Android, AI/ML
+* 💻 Focus: Full-stack, App Dev, AI/ML
 * ⚡ Philosophy: Learn → Build → Ship → Repeat
 * 🇮🇳 Based in India
 
@@ -47,26 +45,39 @@
 
 * 🚀 Building full-stack applications
 * 🧠 Practicing DSA daily
-* 📱 Learning Android development
-* 🤖 Exploring AI/ML
+* 📱 Android development
+* 🤖 AI/ML basics
 
 ---
 
 ## 📌 Featured Projects
 
 * 🚀 Full-stack Web App (Auth + Dashboard)
-* 📱 Android App (Real-world use case)
-* 🤖 Machine Learning Project
+* 📱 Android App
+* 🤖 ML Project
 * ⚡ REST API Backend
-* 🧠 DSA Practice (LeetCode solutions)
+* 🧠 DSA Practice
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jain-COde-03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jain-COde-03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-COde-03&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jain-COde-03&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+---
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Jain-COde-03&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jain-COde-03&theme=tokyonight&no-frame=true&margin-w=10" />
+
 ---
 
 ## 🌐 Connect With Me
@@ -76,6 +87,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Mindset
 
-I focus on building skills that actually matter in real-world development 🚀
+> Consistency beats intensity. I build daily.
