@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 About Me
+🎯 Goal: Top 1% Developer
+💻 Full-stack | App Dev | AI/ML
+⚡ Building real-world projects
+🛠️ Tech Stack
+Languages: C++, Python, JavaScript
+Frontend: React, HTML, CSS
+Backend: Node.js, Express
+Database: MongoDB
+🔥 Current Focus
+Full-stack projects
+DSA daily
+Android development
+📌 Featured Projects
+🚀 Full-stack App
+📱 Android App
+🤖 ML Project
+⚡ Backend API
+📊 GitHub Stats
+
+(Add later using stats tools)
+
+🌐 Connect
+LinkedIn (add later)
