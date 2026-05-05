@@ -1,92 +1,94 @@
-# 🚀 Hi, I'm Mayank
+<!-- ====== HEADER / BANNER ====== -->
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Top+1%+Developer+in+Progress;Full-Stack+%7C+Android+%7C+AI%2FML;Building+Real+Projects+Daily" />
+<h1 align="center">Hi 👋, I'm Mayank</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Top+1%25+Developer+in+Progress;Full-Stack+%7C+Android+%7C+AI%2FML;Building+Real+Projects+Daily;Consistency+%3E+Motivation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jain-COde-03&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Goal: Become a top 1% developer
-* 💻 Focus: Full-stack, App Dev, AI/ML
+* 🎯 Goal: Top 1% Developer
+* 💻 Focus: Full-stack | App Dev | AI/ML
 * ⚡ Philosophy: Learn → Build → Ship → Repeat
-* 🇮🇳 Based in India
+* 🇮🇳 India
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,git,firebase,html,css,tailwind" />
 
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwindcss)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-
-### 🗄️ Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 🚀 Current Focus
 
-* 🚀 Building full-stack applications
-* 🧠 Practicing DSA daily
-* 📱 Android development
-* 🤖 AI/ML basics
+* Building production-level full-stack apps
+* Daily DSA (problem-solving discipline)
+* Android development
+* Exploring AI/ML fundamentals
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Featured Work
 
-* 🚀 Full-stack Web App (Auth + Dashboard)
-* 📱 Android App
-* 🤖 ML Project
+* 🚀 Full-stack App (Auth + Dashboard)
+* 📱 Android App (Utility / Productivity)
+* 🤖 ML Mini Project
 * ⚡ REST API Backend
-* 🧠 DSA Practice
+* 🧠 DSA Repository
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jain-COde-03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jain-COde-03&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jain-COde-03&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jain-COde-03&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=Jain-COde-03&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jain-COde-03&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jain-COde-03&theme=tokyonight&no-frame=true&margin-w=10" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jain-COde-03&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌍 Portfolio: Coming soon
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-black?style=for-the-badge&logo=vercel" /></a>
+</p>
 
 ---
 
 ## ⚡ Mindset
 
-> Consistency beats intensity. I build daily.
+<p align="center">
+  <b>Consistency beats intensity. I build daily.</b>
+</p>
